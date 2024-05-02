@@ -1,6 +1,6 @@
 # my-dwm
 
 
-Bar i use - https://github.com/thytom/dwmbar
+Bar i use - [click](https://github.com/thytom/dwmbar)
 
 No screenshots, deal with it
